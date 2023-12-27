@@ -1,0 +1,4 @@
+The PUT request with path '/districts/:districtId/' with token should return 'District Details Updated' text as a response to the success of the request
+The database should be updated on the put request
+
+It will shows above 2 test cases are not resolved sir please tell me how to resolve sir.
